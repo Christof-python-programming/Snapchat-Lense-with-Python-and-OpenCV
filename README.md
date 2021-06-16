@@ -1,7 +1,7 @@
 # Snapchat-Lense-with-Python-and-OpenCV
 A simple Snapchat Lense using Python and OpenCV. Your mouth and eyes will be on Spongebob.
 
-# Preview
+# Preview:
 
 ![spongebob](https://user-images.githubusercontent.com/85356627/122244334-17e9a780-cec5-11eb-8e66-2945d5a1c0b8.PNG)
 
