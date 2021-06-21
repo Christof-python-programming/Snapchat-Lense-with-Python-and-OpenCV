@@ -31,5 +31,8 @@ A simple Snapchat Lense using Python and OpenCV. Your mouth and eyes will be on 
 # Sources of the images:
 Sources of the images: https://www.pinterest.de/pin/812547957759067321/
 
+# Link zum YouTube Totoriell:
+https://youtu.be/4F20n1USOnY
+
 
 
