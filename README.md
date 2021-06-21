@@ -14,7 +14,7 @@ A simple Snapchat Lense using Python and OpenCV. Your mouth and eyes will be on 
     3. dlib
  
  # What Files do you need to run this:
-    1. shape_predictor_68_face_landmarks.dat (Included when downloading the ZIP)
+    1. shape_predictor_68_face_landmarks.dat (download Link:https://github.com/italojs/facial-landmarks-recognition/blob/master/shape_predictor_68_face_landmarks.dat)
     
     2. image from Spongebob (Included when downloading the ZIP)
     
